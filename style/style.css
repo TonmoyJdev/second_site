@@ -176,3 +176,11 @@ hr {
 .bottom-container {
     display: flex;
 }
+button,
+#name,
+#email,
+#text:hover {
+    color: rgb(128, 0, 0);
+    background-color: rgb(228, 235, 168);
+    font-weight: 700;
+}
